@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 4dc58048997b1445d8ebc18b2ccf13a6
+timeCreated: 1494389644
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Edif_13_2_group29_polySurface508_puertas
+    100004: Edif_13_2_group29_polySurface510_objs_polySurface540
+    100006: Edif_13_2_group29_polySurface514_ventan
+    100008: Edif_13_2_group29_polySurface515_estructs
+    100010: Edif_13_2_group29_polySurface539_polySurface510_objs
+    100012: Edif_13_2_group29_puertas_polySurface506
+    100014: Edif_13_2_group29_puertas_polySurface507
+    100016: Edif_13_2_group29_ventan_polySurface511
+    100018: Edif_13_2_group29_ventan_polySurface513
+    100020: polySurface517_vallas_Edif_13_2_group29
+    100022: vallas_Edif_13_2_group29_polySurface516
+    400000: //RootNode
+    400002: Edif_13_2_group29_polySurface508_puertas
+    400004: Edif_13_2_group29_polySurface510_objs_polySurface540
+    400006: Edif_13_2_group29_polySurface514_ventan
+    400008: Edif_13_2_group29_polySurface515_estructs
+    400010: Edif_13_2_group29_polySurface539_polySurface510_objs
+    400012: Edif_13_2_group29_puertas_polySurface506
+    400014: Edif_13_2_group29_puertas_polySurface507
+    400016: Edif_13_2_group29_ventan_polySurface511
+    400018: Edif_13_2_group29_ventan_polySurface513
+    400020: polySurface517_vallas_Edif_13_2_group29
+    400022: vallas_Edif_13_2_group29_polySurface516
+    2300000: Edif_13_2_group29_polySurface508_puertas
+    2300002: Edif_13_2_group29_polySurface510_objs_polySurface540
+    2300004: Edif_13_2_group29_polySurface514_ventan
+    2300006: Edif_13_2_group29_polySurface515_estructs
+    2300008: Edif_13_2_group29_polySurface539_polySurface510_objs
+    2300010: Edif_13_2_group29_puertas_polySurface506
+    2300012: Edif_13_2_group29_puertas_polySurface507
+    2300014: Edif_13_2_group29_ventan_polySurface511
+    2300016: Edif_13_2_group29_ventan_polySurface513
+    2300018: polySurface517_vallas_Edif_13_2_group29
+    2300020: vallas_Edif_13_2_group29_polySurface516
+    3300000: Edif_13_2_group29_polySurface508_puertas
+    3300002: Edif_13_2_group29_polySurface510_objs_polySurface540
+    3300004: Edif_13_2_group29_polySurface514_ventan
+    3300006: Edif_13_2_group29_polySurface515_estructs
+    3300008: Edif_13_2_group29_polySurface539_polySurface510_objs
+    3300010: Edif_13_2_group29_puertas_polySurface506
+    3300012: Edif_13_2_group29_puertas_polySurface507
+    3300014: Edif_13_2_group29_ventan_polySurface511
+    3300016: Edif_13_2_group29_ventan_polySurface513
+    3300018: polySurface517_vallas_Edif_13_2_group29
+    3300020: vallas_Edif_13_2_group29_polySurface516
+    4300000: Edif_13_2_group29_polySurface508_puertas
+    4300002: Edif_13_2_group29_polySurface510_objs_polySurface540
+    4300004: Edif_13_2_group29_polySurface514_ventan
+    4300006: Edif_13_2_group29_polySurface515_estructs
+    4300008: Edif_13_2_group29_polySurface539_polySurface510_objs
+    4300010: Edif_13_2_group29_puertas_polySurface506
+    4300012: Edif_13_2_group29_puertas_polySurface507
+    4300014: Edif_13_2_group29_ventan_polySurface511
+    4300016: Edif_13_2_group29_ventan_polySurface513
+    4300018: polySurface517_vallas_Edif_13_2_group29
+    4300020: vallas_Edif_13_2_group29_polySurface516
+    6400000: Edif_13_2_group29_polySurface508_puertas
+    6400002: Edif_13_2_group29_polySurface510_objs_polySurface540
+    6400004: Edif_13_2_group29_polySurface514_ventan
+    6400006: Edif_13_2_group29_polySurface515_estructs
+    6400008: Edif_13_2_group29_polySurface539_polySurface510_objs
+    6400010: Edif_13_2_group29_puertas_polySurface506
+    6400012: Edif_13_2_group29_puertas_polySurface507
+    6400014: Edif_13_2_group29_ventan_polySurface511
+    6400016: Edif_13_2_group29_ventan_polySurface513
+    6400018: polySurface517_vallas_Edif_13_2_group29
+    6400020: vallas_Edif_13_2_group29_polySurface516
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.125
+    meshCompression: 1
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

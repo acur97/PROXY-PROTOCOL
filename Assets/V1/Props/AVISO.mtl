@@ -1,0 +1,19 @@
+# Exported from 3D Builder
+
+newmtl Letrero:blinn2SG
+Kd 0.137255 0.137255 0.137255
+
+newmtl Letrero:blinn3SG
+Kd 0.078431 0.066667 0.058824
+
+newmtl Letrero:blinn1SG
+Kd 0.058824 0.027451 0.027451
+
+newmtl Letrero:shadingMap1SG
+Kd 0.000000 0.000000 0.000000
+
+newmtl Letrero:shadingMap1SG
+Kd 0.000000 0.000000 0.000000
+
+newmtl Letrero:shadingMap1SG
+Kd 0.000000 0.000000 0.000000

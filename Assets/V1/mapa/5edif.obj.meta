@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 1db3f50dfea4045dfbba7b714d05587d
+timeCreated: 1494323729
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Edif_06_group29_objs_polySurface345
+    100004: Edif_06_group29_objs_polySurface346
+    100006: Edif_06_group29_objs_polySurface354
+    100008: Edif_06_group29_polySurface344_objs
+    100010: Edif_06_group29_polySurface351_puertas
+    100012: Edif_06_group29_polySurface355_estruct
+    100014: Edif_06_group29_puertas_polySurface352
+    100016: Edif_06_group29_puertas_polySurface353
+    100018: panttalas_Edif_06_group29_polySurface347
+    100020: polySurface349_panttalas_Edif_06_group29
+    400000: //RootNode
+    400002: Edif_06_group29_objs_polySurface345
+    400004: Edif_06_group29_objs_polySurface346
+    400006: Edif_06_group29_objs_polySurface354
+    400008: Edif_06_group29_polySurface344_objs
+    400010: Edif_06_group29_polySurface351_puertas
+    400012: Edif_06_group29_polySurface355_estruct
+    400014: Edif_06_group29_puertas_polySurface352
+    400016: Edif_06_group29_puertas_polySurface353
+    400018: panttalas_Edif_06_group29_polySurface347
+    400020: polySurface349_panttalas_Edif_06_group29
+    2300000: Edif_06_group29_objs_polySurface345
+    2300002: Edif_06_group29_objs_polySurface346
+    2300004: Edif_06_group29_objs_polySurface354
+    2300006: Edif_06_group29_polySurface344_objs
+    2300008: Edif_06_group29_polySurface351_puertas
+    2300010: Edif_06_group29_polySurface355_estruct
+    2300012: Edif_06_group29_puertas_polySurface352
+    2300014: Edif_06_group29_puertas_polySurface353
+    2300016: panttalas_Edif_06_group29_polySurface347
+    2300018: polySurface349_panttalas_Edif_06_group29
+    3300000: Edif_06_group29_objs_polySurface345
+    3300002: Edif_06_group29_objs_polySurface346
+    3300004: Edif_06_group29_objs_polySurface354
+    3300006: Edif_06_group29_polySurface344_objs
+    3300008: Edif_06_group29_polySurface351_puertas
+    3300010: Edif_06_group29_polySurface355_estruct
+    3300012: Edif_06_group29_puertas_polySurface352
+    3300014: Edif_06_group29_puertas_polySurface353
+    3300016: panttalas_Edif_06_group29_polySurface347
+    3300018: polySurface349_panttalas_Edif_06_group29
+    4300000: Edif_06_group29_objs_polySurface345
+    4300002: Edif_06_group29_objs_polySurface346
+    4300004: Edif_06_group29_objs_polySurface354
+    4300006: Edif_06_group29_polySurface344_objs
+    4300008: Edif_06_group29_polySurface351_puertas
+    4300010: Edif_06_group29_polySurface355_estruct
+    4300012: Edif_06_group29_puertas_polySurface352
+    4300014: Edif_06_group29_puertas_polySurface353
+    4300016: panttalas_Edif_06_group29_polySurface347
+    4300018: polySurface349_panttalas_Edif_06_group29
+    6400000: Edif_06_group29_objs_polySurface345
+    6400002: Edif_06_group29_objs_polySurface346
+    6400004: Edif_06_group29_objs_polySurface354
+    6400006: Edif_06_group29_polySurface344_objs
+    6400008: Edif_06_group29_polySurface351_puertas
+    6400010: Edif_06_group29_polySurface355_estruct
+    6400012: Edif_06_group29_puertas_polySurface352
+    6400014: Edif_06_group29_puertas_polySurface353
+    6400016: panttalas_Edif_06_group29_polySurface347
+    6400018: polySurface349_panttalas_Edif_06_group29
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.125
+    meshCompression: 1
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

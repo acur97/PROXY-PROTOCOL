@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: b4040aaa5e65443929a8baca44dfeca9
+timeCreated: 1494323806
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Edif_10_group29_objs_polySurface438
+    100004: Edif_10_group29_polySurface434_puerta
+    100006: Edif_10_group29_polySurface436_muro
+    100008: Edif_10_group29_polySurface439_objs
+    100010: Edif_10_group29_polySurface440_estruct
+    100012: polySurface441_vallas_Edif_10_group29
+    100014: vallas_Edif_10_group29_polySurface442
+    400000: //RootNode
+    400002: Edif_10_group29_objs_polySurface438
+    400004: Edif_10_group29_polySurface434_puerta
+    400006: Edif_10_group29_polySurface436_muro
+    400008: Edif_10_group29_polySurface439_objs
+    400010: Edif_10_group29_polySurface440_estruct
+    400012: polySurface441_vallas_Edif_10_group29
+    400014: vallas_Edif_10_group29_polySurface442
+    2300000: Edif_10_group29_objs_polySurface438
+    2300002: Edif_10_group29_polySurface434_puerta
+    2300004: Edif_10_group29_polySurface436_muro
+    2300006: Edif_10_group29_polySurface439_objs
+    2300008: Edif_10_group29_polySurface440_estruct
+    2300010: polySurface441_vallas_Edif_10_group29
+    2300012: vallas_Edif_10_group29_polySurface442
+    3300000: Edif_10_group29_objs_polySurface438
+    3300002: Edif_10_group29_polySurface434_puerta
+    3300004: Edif_10_group29_polySurface436_muro
+    3300006: Edif_10_group29_polySurface439_objs
+    3300008: Edif_10_group29_polySurface440_estruct
+    3300010: polySurface441_vallas_Edif_10_group29
+    3300012: vallas_Edif_10_group29_polySurface442
+    4300000: Edif_10_group29_objs_polySurface438
+    4300002: Edif_10_group29_polySurface434_puerta
+    4300004: Edif_10_group29_polySurface436_muro
+    4300006: Edif_10_group29_polySurface439_objs
+    4300008: Edif_10_group29_polySurface440_estruct
+    4300010: polySurface441_vallas_Edif_10_group29
+    4300012: vallas_Edif_10_group29_polySurface442
+    6400000: Edif_10_group29_objs_polySurface438
+    6400002: Edif_10_group29_polySurface434_puerta
+    6400004: Edif_10_group29_polySurface436_muro
+    6400006: Edif_10_group29_polySurface439_objs
+    6400008: Edif_10_group29_polySurface440_estruct
+    6400010: polySurface441_vallas_Edif_10_group29
+    6400012: vallas_Edif_10_group29_polySurface442
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.125
+    meshCompression: 1
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

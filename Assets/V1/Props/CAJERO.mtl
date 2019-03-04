@@ -1,0 +1,25 @@
+# Exported from 3D Builder
+
+newmtl Cajero:blinn9SG
+Kd 0.000000 0.058824 0.000000
+
+newmtl Cajero:blinn7SG
+Kd 0.117647 0.109804 0.109804
+
+newmtl Cajero:blinn6SG
+Kd 0.176471 0.176471 0.176471
+
+newmtl Cajero:lambert3SG
+Kd 0.000000 0.000000 0.086275
+
+newmtl Cajero:blinn8SG
+Kd 0.000000 0.000000 0.000000
+
+newmtl Cajero:blinn3SG
+Kd 0.078431 0.066667 0.058824
+
+newmtl Cajero:blinn10SG
+Kd 0.000000 0.137255 0.149020
+
+newmtl Cajero:phong2SG
+Kd 0.000000 0.486275 0.529412

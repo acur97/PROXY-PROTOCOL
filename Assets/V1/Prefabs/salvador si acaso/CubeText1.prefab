@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1800091141665204}
+  m_IsPrefabParent: 1
+--- !u!1 &1800091141665204
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4435530968836026}
+  - component: {fileID: 65310224808439288}
+  - component: {fileID: 114744385361898570}
+  m_Layer: 0
+  m_Name: CubeText1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &4435530968836026
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1800091141665204}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -5.4338026, y: 0.64, z: -74.14}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &65310224808439288
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1800091141665204}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 7.2586517, y: 1.7693048, z: 8.067375}
+  m_Center: {x: 0.42508984, y: 0.66728556, z: 2.2576866}
+--- !u!114 &114744385361898570
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1800091141665204}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31a9f5e468f9a7e46beffafa0d139f8c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogueText: {fileID: 0}
+  textBox: {fileID: 0}
+  dialogue: "Antes de que comiences la misi\xF3n, me gustar\xEDa hablarte un poco
+    de los controles. (PRESIONA C)\r\n\xBFControles? \xBFde qu\xE9 est\xE1s hablando?\r\nLo
+    que te permite moverte y usar tus habilidades\u2026\r\nCreo poder recordar c\xF3mo
+    moverme Sarah. \nCon las teclas W, A, S, D me desplazo en una direcci\xF3n, con
+    el movimiento del Mouse muevo la c\xE1mara, con Click Izquierdo ataco a mis enemigos
+    y con la Barra Espaciadora salto.\r\nTe olvidas de algo.\r\n\u2026\r\nCon el Click
+    Derecho del Mouse activas tu habilidad especial \u201CDash\u201D, lo que te permite
+    moverte con mayor rapidez. Es especialmente \xFAtil para evitar el rango de visi\xF3n
+    de los\r drones.\r\n\nNo la hab\xEDa olvidado, tan solo\u2026\r\nComo digas. Ve
+    con cuidado, no quiero que te pase nada.\r\nEstar\xE9 en nuestra base antes de
+    lo planeado, te lo aseguro.\r"
+  characterSpeed: 0.005

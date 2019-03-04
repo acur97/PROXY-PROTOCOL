@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: b9fc01dfdc68d4999a259be3cfe118b8
+timeCreated: 1494389725
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Edif_14_1_group29_polySurface482_ventanas
+    100004: Edif_14_1_group29_polySurface491_puertas
+    100006: Edif_14_1_group29_polySurface495_estrusy
+    100008: Edif_14_1_group29_puertas_polySurface489
+    100010: Edif_14_1_group29_puertas_polySurface492
+    100012: Edif_14_1_group29_puertas_polySurface493
+    100014: Edif_14_1_group29_ventanas_polySurface480
+    100016: Edif_14_1_group29_ventanas_polySurface483
+    100018: Edif_14_1_group29_ventanas_polySurface484
+    100020: Edif_14_1_group29_ventanas_polySurface485
+    100022: Edif_14_1_group29_ventanas_polySurface486
+    100024: Edif_14_1_group29_ventanas_polySurface487
+    100026: Edif_14_1_group29_ventanas_polySurface488
+    100028: polySurface494_obhskd_Edif_14_1_group29
+    400000: //RootNode
+    400002: Edif_14_1_group29_polySurface482_ventanas
+    400004: Edif_14_1_group29_polySurface491_puertas
+    400006: Edif_14_1_group29_polySurface495_estrusy
+    400008: Edif_14_1_group29_puertas_polySurface489
+    400010: Edif_14_1_group29_puertas_polySurface492
+    400012: Edif_14_1_group29_puertas_polySurface493
+    400014: Edif_14_1_group29_ventanas_polySurface480
+    400016: Edif_14_1_group29_ventanas_polySurface483
+    400018: Edif_14_1_group29_ventanas_polySurface484
+    400020: Edif_14_1_group29_ventanas_polySurface485
+    400022: Edif_14_1_group29_ventanas_polySurface486
+    400024: Edif_14_1_group29_ventanas_polySurface487
+    400026: Edif_14_1_group29_ventanas_polySurface488
+    400028: polySurface494_obhskd_Edif_14_1_group29
+    2300000: Edif_14_1_group29_polySurface482_ventanas
+    2300002: Edif_14_1_group29_polySurface491_puertas
+    2300004: Edif_14_1_group29_polySurface495_estrusy
+    2300006: Edif_14_1_group29_puertas_polySurface489
+    2300008: Edif_14_1_group29_puertas_polySurface492
+    2300010: Edif_14_1_group29_puertas_polySurface493
+    2300012: Edif_14_1_group29_ventanas_polySurface480
+    2300014: Edif_14_1_group29_ventanas_polySurface483
+    2300016: Edif_14_1_group29_ventanas_polySurface484
+    2300018: Edif_14_1_group29_ventanas_polySurface485
+    2300020: Edif_14_1_group29_ventanas_polySurface486
+    2300022: Edif_14_1_group29_ventanas_polySurface487
+    2300024: Edif_14_1_group29_ventanas_polySurface488
+    2300026: polySurface494_obhskd_Edif_14_1_group29
+    3300000: Edif_14_1_group29_polySurface482_ventanas
+    3300002: Edif_14_1_group29_polySurface491_puertas
+    3300004: Edif_14_1_group29_polySurface495_estrusy
+    3300006: Edif_14_1_group29_puertas_polySurface489
+    3300008: Edif_14_1_group29_puertas_polySurface492
+    3300010: Edif_14_1_group29_puertas_polySurface493
+    3300012: Edif_14_1_group29_ventanas_polySurface480
+    3300014: Edif_14_1_group29_ventanas_polySurface483
+    3300016: Edif_14_1_group29_ventanas_polySurface484
+    3300018: Edif_14_1_group29_ventanas_polySurface485
+    3300020: Edif_14_1_group29_ventanas_polySurface486
+    3300022: Edif_14_1_group29_ventanas_polySurface487
+    3300024: Edif_14_1_group29_ventanas_polySurface488
+    3300026: polySurface494_obhskd_Edif_14_1_group29
+    4300000: Edif_14_1_group29_polySurface482_ventanas
+    4300002: Edif_14_1_group29_polySurface491_puertas
+    4300004: Edif_14_1_group29_polySurface495_estrusy
+    4300006: Edif_14_1_group29_puertas_polySurface489
+    4300008: Edif_14_1_group29_puertas_polySurface492
+    4300010: Edif_14_1_group29_puertas_polySurface493
+    4300012: Edif_14_1_group29_ventanas_polySurface480
+    4300014: Edif_14_1_group29_ventanas_polySurface483
+    4300016: Edif_14_1_group29_ventanas_polySurface484
+    4300018: Edif_14_1_group29_ventanas_polySurface485
+    4300020: Edif_14_1_group29_ventanas_polySurface486
+    4300022: Edif_14_1_group29_ventanas_polySurface487
+    4300024: Edif_14_1_group29_ventanas_polySurface488
+    4300026: polySurface494_obhskd_Edif_14_1_group29
+    6400000: Edif_14_1_group29_polySurface482_ventanas
+    6400002: Edif_14_1_group29_polySurface491_puertas
+    6400004: Edif_14_1_group29_polySurface495_estrusy
+    6400006: Edif_14_1_group29_puertas_polySurface489
+    6400008: Edif_14_1_group29_puertas_polySurface492
+    6400010: Edif_14_1_group29_puertas_polySurface493
+    6400012: Edif_14_1_group29_ventanas_polySurface480
+    6400014: Edif_14_1_group29_ventanas_polySurface483
+    6400016: Edif_14_1_group29_ventanas_polySurface484
+    6400018: Edif_14_1_group29_ventanas_polySurface485
+    6400020: Edif_14_1_group29_ventanas_polySurface486
+    6400022: Edif_14_1_group29_ventanas_polySurface487
+    6400024: Edif_14_1_group29_ventanas_polySurface488
+    6400026: polySurface494_obhskd_Edif_14_1_group29
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.125
+    meshCompression: 1
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

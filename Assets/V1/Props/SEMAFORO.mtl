@@ -1,0 +1,40 @@
+# Exported from 3D Builder
+
+newmtl blinn9SG
+Kd 0.000000 0.000000 0.000000
+
+newmtl lambert4SG
+Kd 0.000000 1.000000 0.000000
+
+newmtl lambert3SG
+Kd 1.000000 0.140000 0.000000
+
+newmtl lambert2SG
+Kd 1.000000 0.000000 0.000000
+
+newmtl lambert8SG
+Kd 0.630000 0.090000 0.000000
+
+newmtl lambert6SG
+Kd 0.710000 0.000000 0.000000
+
+newmtl lambert7SG
+Kd 0.000000 0.610000 0.000000
+
+newmtl blinn9SG
+Kd 0.000000 0.000000 0.000000
+
+newmtl blinn9SG
+Kd 0.000000 0.000000 0.000000
+
+newmtl lambert4SG
+Kd 0.000000 1.000000 0.000000
+
+newmtl lambert2SG
+Kd 1.000000 0.000000 0.000000
+
+newmtl lambert6SG
+Kd 0.710000 0.000000 0.000000
+
+newmtl lambert7SG
+Kd 0.000000 0.610000 0.000000

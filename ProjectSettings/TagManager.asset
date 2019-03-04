@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Kyla
+  - mundo
+  - malos
+  - Cajita
+  - Bala
+  - Music
+  - Piso
+  - PuntoGuardiaDron
+  - Guardia1
+  - Particulas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - escenario
+  - camara
+  - jugador
+  - malos
+  - espadaMalos
+  - espadaKyla
+  - balaDron
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

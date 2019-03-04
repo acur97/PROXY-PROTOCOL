@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 2b973c44450764536bc158df219b7534
+timeCreated: 1494324058
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Edif_09_group29_objs_polySurface422
+    100004: Edif_09_group29_objs_polySurface423
+    100006: Edif_09_group29_pantallas_polySurface424
+    100008: Edif_09_group29_pantallas_polySurface425
+    100010: Edif_09_group29_pantallas_polySurface426
+    100012: Edif_09_group29_polySurface408_puertas
+    100014: Edif_09_group29_polySurface421_objs
+    100016: Edif_09_group29_polySurface427_pantallas
+    100018: Edif_09_group29_polySurface430_ventanas
+    100020: Edif_09_group29_puertas_polySurface409
+    100022: Edif_09_group29_puertas_polySurface410
+    100024: Edif_09_group29_puertas_polySurface411
+    100026: Edif_09_group29_puertas_polySurface412
+    100028: Edif_09_group29_puertas_polySurface413
+    100030: Edif_09_group29_puertas_polySurface414
+    100032: Edif_09_group29_puertas_polySurface415
+    100034: Edif_09_group29_puertas_polySurface416
+    100036: Edif_09_group29_puertas_polySurface417
+    100038: Edif_09_group29_ventanas_polySurface419
+    100040: Edif_09_group29_ventanas_polySurface431
+    100042: Edif_09_group29_ventanas_polySurface432
+    100044: polySurface429_estruct_Edif_09_group29
+    400000: //RootNode
+    400002: Edif_09_group29_objs_polySurface422
+    400004: Edif_09_group29_objs_polySurface423
+    400006: Edif_09_group29_pantallas_polySurface424
+    400008: Edif_09_group29_pantallas_polySurface425
+    400010: Edif_09_group29_pantallas_polySurface426
+    400012: Edif_09_group29_polySurface408_puertas
+    400014: Edif_09_group29_polySurface421_objs
+    400016: Edif_09_group29_polySurface427_pantallas
+    400018: Edif_09_group29_polySurface430_ventanas
+    400020: Edif_09_group29_puertas_polySurface409
+    400022: Edif_09_group29_puertas_polySurface410
+    400024: Edif_09_group29_puertas_polySurface411
+    400026: Edif_09_group29_puertas_polySurface412
+    400028: Edif_09_group29_puertas_polySurface413
+    400030: Edif_09_group29_puertas_polySurface414
+    400032: Edif_09_group29_puertas_polySurface415
+    400034: Edif_09_group29_puertas_polySurface416
+    400036: Edif_09_group29_puertas_polySurface417
+    400038: Edif_09_group29_ventanas_polySurface419
+    400040: Edif_09_group29_ventanas_polySurface431
+    400042: Edif_09_group29_ventanas_polySurface432
+    400044: polySurface429_estruct_Edif_09_group29
+    2300000: Edif_09_group29_objs_polySurface422
+    2300002: Edif_09_group29_objs_polySurface423
+    2300004: Edif_09_group29_pantallas_polySurface424
+    2300006: Edif_09_group29_pantallas_polySurface425
+    2300008: Edif_09_group29_pantallas_polySurface426
+    2300010: Edif_09_group29_polySurface408_puertas
+    2300012: Edif_09_group29_polySurface421_objs
+    2300014: Edif_09_group29_polySurface427_pantallas
+    2300016: Edif_09_group29_polySurface430_ventanas
+    2300018: Edif_09_group29_puertas_polySurface409
+    2300020: Edif_09_group29_puertas_polySurface410
+    2300022: Edif_09_group29_puertas_polySurface411
+    2300024: Edif_09_group29_puertas_polySurface412
+    2300026: Edif_09_group29_puertas_polySurface413
+    2300028: Edif_09_group29_puertas_polySurface414
+    2300030: Edif_09_group29_puertas_polySurface415
+    2300032: Edif_09_group29_puertas_polySurface416
+    2300034: Edif_09_group29_puertas_polySurface417
+    2300036: Edif_09_group29_ventanas_polySurface419
+    2300038: Edif_09_group29_ventanas_polySurface431
+    2300040: Edif_09_group29_ventanas_polySurface432
+    2300042: polySurface429_estruct_Edif_09_group29
+    3300000: Edif_09_group29_objs_polySurface422
+    3300002: Edif_09_group29_objs_polySurface423
+    3300004: Edif_09_group29_pantallas_polySurface424
+    3300006: Edif_09_group29_pantallas_polySurface425
+    3300008: Edif_09_group29_pantallas_polySurface426
+    3300010: Edif_09_group29_polySurface408_puertas
+    3300012: Edif_09_group29_polySurface421_objs
+    3300014: Edif_09_group29_polySurface427_pantallas
+    3300016: Edif_09_group29_polySurface430_ventanas
+    3300018: Edif_09_group29_puertas_polySurface409
+    3300020: Edif_09_group29_puertas_polySurface410
+    3300022: Edif_09_group29_puertas_polySurface411
+    3300024: Edif_09_group29_puertas_polySurface412
+    3300026: Edif_09_group29_puertas_polySurface413
+    3300028: Edif_09_group29_puertas_polySurface414
+    3300030: Edif_09_group29_puertas_polySurface415
+    3300032: Edif_09_group29_puertas_polySurface416
+    3300034: Edif_09_group29_puertas_polySurface417
+    3300036: Edif_09_group29_ventanas_polySurface419
+    3300038: Edif_09_group29_ventanas_polySurface431
+    3300040: Edif_09_group29_ventanas_polySurface432
+    3300042: polySurface429_estruct_Edif_09_group29
+    4300000: Edif_09_group29_objs_polySurface422
+    4300002: Edif_09_group29_objs_polySurface423
+    4300004: Edif_09_group29_pantallas_polySurface424
+    4300006: Edif_09_group29_pantallas_polySurface425
+    4300008: Edif_09_group29_pantallas_polySurface426
+    4300010: Edif_09_group29_polySurface408_puertas
+    4300012: Edif_09_group29_polySurface421_objs
+    4300014: Edif_09_group29_polySurface427_pantallas
+    4300016: Edif_09_group29_polySurface430_ventanas
+    4300018: Edif_09_group29_puertas_polySurface409
+    4300020: Edif_09_group29_puertas_polySurface410
+    4300022: Edif_09_group29_puertas_polySurface411
+    4300024: Edif_09_group29_puertas_polySurface412
+    4300026: Edif_09_group29_puertas_polySurface413
+    4300028: Edif_09_group29_puertas_polySurface414
+    4300030: Edif_09_group29_puertas_polySurface415
+    4300032: Edif_09_group29_puertas_polySurface416
+    4300034: Edif_09_group29_puertas_polySurface417
+    4300036: Edif_09_group29_ventanas_polySurface419
+    4300038: Edif_09_group29_ventanas_polySurface431
+    4300040: Edif_09_group29_ventanas_polySurface432
+    4300042: polySurface429_estruct_Edif_09_group29
+    6400000: Edif_09_group29_objs_polySurface422
+    6400002: Edif_09_group29_objs_polySurface423
+    6400004: Edif_09_group29_pantallas_polySurface424
+    6400006: Edif_09_group29_pantallas_polySurface425
+    6400008: Edif_09_group29_pantallas_polySurface426
+    6400010: Edif_09_group29_polySurface408_puertas
+    6400012: Edif_09_group29_polySurface421_objs
+    6400014: Edif_09_group29_polySurface427_pantallas
+    6400016: Edif_09_group29_polySurface430_ventanas
+    6400018: Edif_09_group29_puertas_polySurface409
+    6400020: Edif_09_group29_puertas_polySurface410
+    6400022: Edif_09_group29_puertas_polySurface411
+    6400024: Edif_09_group29_puertas_polySurface412
+    6400026: Edif_09_group29_puertas_polySurface413
+    6400028: Edif_09_group29_puertas_polySurface414
+    6400030: Edif_09_group29_puertas_polySurface415
+    6400032: Edif_09_group29_puertas_polySurface416
+    6400034: Edif_09_group29_puertas_polySurface417
+    6400036: Edif_09_group29_ventanas_polySurface419
+    6400038: Edif_09_group29_ventanas_polySurface431
+    6400040: Edif_09_group29_ventanas_polySurface432
+    6400042: polySurface429_estruct_Edif_09_group29
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.125
+    meshCompression: 1
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

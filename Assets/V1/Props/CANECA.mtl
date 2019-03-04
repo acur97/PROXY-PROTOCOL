@@ -1,0 +1,19 @@
+# Exported from 3D Builder
+
+newmtl blinn3SG
+Kd 0.000000 0.039216 0.000000
+
+newmtl blinn6SG
+Kd 0.156863 0.156863 0.156863
+
+newmtl blinn4SG
+Kd 0.000000 0.019608 0.000000
+
+newmtl blinn5SG
+Kd 0.066667 0.066667 0.066667
+
+newmtl blinn8SG
+Kd 0.098039 0.098039 0.098039
+
+newmtl blinn7SG
+Kd 0.000000 0.027451 0.000000

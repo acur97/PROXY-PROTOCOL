@@ -1,0 +1,115 @@
+fileFormatVersion: 2
+guid: 4fcfba788c86b4b4e83b77be8c27bafb
+timeCreated: 1494389862
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Edif_14_2_group29_polySurface497_puerta
+    100004: Edif_14_2_group29_polySurface501_objs
+    100006: Edif_14_2_group29_polySurface503_etsrus
+    100008: Edif_14_2_group29_polySurface504_vallas
+    100010: Edif_14_2_group29_vallas_polySurface502
+    100012: polySurface499_ventana_Edif_14_2_group29
+    400000: //RootNode
+    400002: Edif_14_2_group29_polySurface497_puerta
+    400004: Edif_14_2_group29_polySurface501_objs
+    400006: Edif_14_2_group29_polySurface503_etsrus
+    400008: Edif_14_2_group29_polySurface504_vallas
+    400010: Edif_14_2_group29_vallas_polySurface502
+    400012: polySurface499_ventana_Edif_14_2_group29
+    2300000: Edif_14_2_group29_polySurface497_puerta
+    2300002: Edif_14_2_group29_polySurface501_objs
+    2300004: Edif_14_2_group29_polySurface503_etsrus
+    2300006: Edif_14_2_group29_polySurface504_vallas
+    2300008: Edif_14_2_group29_vallas_polySurface502
+    2300010: polySurface499_ventana_Edif_14_2_group29
+    3300000: Edif_14_2_group29_polySurface497_puerta
+    3300002: Edif_14_2_group29_polySurface501_objs
+    3300004: Edif_14_2_group29_polySurface503_etsrus
+    3300006: Edif_14_2_group29_polySurface504_vallas
+    3300008: Edif_14_2_group29_vallas_polySurface502
+    3300010: polySurface499_ventana_Edif_14_2_group29
+    4300000: Edif_14_2_group29_polySurface497_puerta
+    4300002: Edif_14_2_group29_polySurface501_objs
+    4300004: Edif_14_2_group29_polySurface503_etsrus
+    4300006: Edif_14_2_group29_polySurface504_vallas
+    4300008: Edif_14_2_group29_vallas_polySurface502
+    4300010: polySurface499_ventana_Edif_14_2_group29
+    6400000: Edif_14_2_group29_polySurface497_puerta
+    6400002: Edif_14_2_group29_polySurface501_objs
+    6400004: Edif_14_2_group29_polySurface503_etsrus
+    6400006: Edif_14_2_group29_polySurface504_vallas
+    6400008: Edif_14_2_group29_vallas_polySurface502
+    6400010: polySurface499_ventana_Edif_14_2_group29
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.125
+    meshCompression: 1
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
