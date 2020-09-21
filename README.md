@@ -1,5 +1,3 @@
 # PROXY-PROTOCOL
 
-Version sin cambios de Unity 2017.3.0f3
-
-Algun dia esta obra maestra sera subida.
+Algun dia esta obra maestra será terminada.
