@@ -6,14 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/V1/Scenes/Menu.unity
+    path: Assets/V1/_Scenes/Menu.unity
     guid: 692369d352cfd8d4cb8964f9e77486d1
   - enabled: 1
-    path: Assets/V1/Scenes/Cinematografica.unity
+    path: Assets/V1/_Scenes/Cinematografica.unity
     guid: 778e900d0740ff44a8f3ee026f527535
   - enabled: 1
-    path: Assets/V1/Scenes/Cargando.unity
+    path: Assets/V1/_Scenes/Cargando.unity
     guid: f0b95845af483d6429b973507f533e46
   - enabled: 1
-    path: Assets/V1/Scenes/test1.unity
+    path: Assets/V1/_Scenes/test1.unity
     guid: 2fdc9c1cafd2019459a42500e9865aea
+  - enabled: 1
+    path: Assets/V1/_Scenes/Final.unity
+    guid: cb7cb4c6966e0f640ae4561b3b0f09f2
+  m_configObjects: {}

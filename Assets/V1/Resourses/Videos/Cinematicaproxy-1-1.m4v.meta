@@ -1,13 +1,8 @@
 fileFormatVersion: 2
 guid: cf4de9fb7179ad04fb9fcf1133928078
-timeCreated: 1494379680
-licenseType: Free
 VideoClipImporter:
   externalObjects: {}
   serializedVersion: 2
-  useLegacyImporter: 0
-  quality: 0.5
-  isColorLinear: 0
   frameRange: 0
   startFrame: -1
   endFrame: -1
